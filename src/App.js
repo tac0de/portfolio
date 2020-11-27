@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./layouts/Header";
-import Footer from "./layouts/Footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import "./styles/App.css";
 
 import { sections } from "./utils/variables";
