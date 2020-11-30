@@ -20,11 +20,13 @@ function Section({
             <p>{thirdParagraph}</p>
           </div>
           <ul>
-            <li>
-              <a href={linkToSite} target="blank">
-                Visit {isRepo ? "Site" : "Store"}
-              </a>
-            </li>
+            {isRepo && (
+              <li>
+                <a href={linkToSite} target="blank">
+                  Visit Site
+                </a>
+              </li>
+            )}
             {isRepo && (
               <li>
                 <a href={linkToRepo} target="blank">
@@ -34,11 +36,9 @@ function Section({
             )}
           </ul>
           {!isRepo && (
-            <div>
-              <img
-                src="https://images.unsplash.com/photo-1605639649750-584b3d9a5522?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
-                alt="Dummy"
-              />
+            <div className="image-wrapper">
+              <img src="./gifs/goodquotes_01.gif" alt="Good Quotes Gif 1" />
+              <img src="./gifs/goodquotes_02.gif" alt="Good Quotes Gif 2" />
             </div>
           )}
         </div>

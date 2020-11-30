@@ -141,4 +141,12 @@ footer {
     line-height: 2.3rem;
     margin-bottom: 1.5rem;
   }
+
+  .section__content img {
+    width: 45%;
+  }
+  .image-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
 }
