@@ -24,9 +24,7 @@ function Header() {
             </li>
             <li>/</li>
             <li>
-              <a href="mailto:wonyoungchoiseoul@gmail.com" target="blank">
-                Email
-              </a>
+              <a href="mailto:wonyoungchoiseoul@gmail.com">Email</a>
             </li>
           </ul>
         </div>
