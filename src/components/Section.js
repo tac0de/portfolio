@@ -22,14 +22,14 @@ function Section({
           <ul>
             {isRepo && (
               <li>
-                <a href={linkToSite} target="blank">
+                <a href={linkToSite} target="_blank">
                   Visit Site
                 </a>
               </li>
             )}
             {isRepo && (
               <li>
-                <a href={linkToRepo} target="blank">
+                <a href={linkToRepo} target="_blank">
                   Github Repo
                 </a>
               </li>

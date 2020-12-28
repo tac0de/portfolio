@@ -12,13 +12,13 @@ function Header() {
           </div>
           <ul>
             <li>
-              <a href="https://github.com/tac0de" target="blank">
+              <a href="https://github.com/tac0de" target="_blank">
                 Github
               </a>
             </li>
             <li>/</li>
             <li>
-              <a href="https://tac0de.github.io" target="blank">
+              <a href="https://tac0de.github.io" target="_blank">
                 Dev Blog
               </a>
             </li>
