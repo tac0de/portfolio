@@ -1,4 +1,6 @@
 import React from "react";
+import gqGif1 from "../gifs/goodquotes_01.gif";
+import gqGif2 from "../gifs/goodquotes_02.gif";
 
 function Section({
   title,
@@ -20,7 +22,7 @@ function Section({
             <p>{thirdParagraph}</p>
           </div>
           <ul>
-            {isRepo && (
+            {isRepo && title !== "Seoul Owl" && (
               <li>
                 <a href={linkToSite} target="_blank">
                   Visit Site
@@ -35,10 +37,10 @@ function Section({
               </li>
             )}
           </ul>
-          {!isRepo && title !== "Seoul Owl" && (
+          {!isRepo && (
             <div className="image-wrapper">
-              <img src="./gifs/goodquotes_01.gif" alt="Good Quotes Gif 1" />
-              <img src="./gifs/goodquotes_02.gif" alt="Good Quotes Gif 2" />
+              <img src={gqGif1} alt="Good Quotes Gif 1" />
+              <img src={gqGif2} alt="Good Quotes Gif 2" />
             </div>
           )}
         </div>
