@@ -56,7 +56,7 @@ export const sectionContent = {
     // Freestyle Rap Coach Development Story
     "Freestyle Rap Coach was built in suggestion of my older brother since he was into rap music. I benchmarked a similar site and tried to design neatly. Functional code was hard because I was not good at web development at that time and dealing with JS timer and if/else statement used to create dropdown selection button came to me as confusion. I grabbed words in multiple languages from Bitcoin related Github repository.",
   ],
-  link: ["", "seoulowl", "theunicornlist", "freestylerapcoach"],
+  link: ["", "", "theunicornlist", "freestylerapcoach"],
 };
 
 export const sections = [0, 1, 2, 3].map((i) => (

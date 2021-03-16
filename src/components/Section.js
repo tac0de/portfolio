@@ -35,7 +35,7 @@ function Section({
               </li>
             )}
           </ul>
-          {!isRepo && (
+          {!isRepo && title !== "Seoul Owl" && (
             <div className="image-wrapper">
               <img src="./gifs/goodquotes_01.gif" alt="Good Quotes Gif 1" />
               <img src="./gifs/goodquotes_02.gif" alt="Good Quotes Gif 2" />
