@@ -1,22 +1,8 @@
 {
-  "files": {
-    "main.css": "/portfolio/static/css/main.ca67d89a.chunk.css",
-    "main.js": "/portfolio/static/js/main.9890ebc7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9890ebc7.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.1587edeb.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1587edeb.js.map",
-    "static/js/2.d4463ec8.chunk.js": "/portfolio/static/js/2.d4463ec8.chunk.js",
-    "static/js/2.d4463ec8.chunk.js.map": "/portfolio/static/js/2.d4463ec8.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.ca67d89a.chunk.css.map": "/portfolio/static/css/main.ca67d89a.chunk.css.map",
-    "static/js/2.d4463ec8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d4463ec8.chunk.js.LICENSE.txt",
-    "static/media/goodquotes_01.ed99317f.gif": "/portfolio/static/media/goodquotes_01.ed99317f.gif",
-    "static/media/goodquotes_02.75e78424.gif": "/portfolio/static/media/goodquotes_02.75e78424.gif"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.1587edeb.js",
-    "static/js/2.d4463ec8.chunk.js",
-    "static/css/main.ca67d89a.chunk.css",
-    "static/js/main.9890ebc7.chunk.js"
-  ]
+  "main.css": "static/css/main.46ff65d5.css",
+  "main.css.map": "static/css/main.46ff65d5.css.map",
+  "main.js": "static/js/main.3217cecc.js",
+  "main.js.map": "static/js/main.3217cecc.js.map",
+  "static/media/goodquotes_01.gif": "static/media/goodquotes_01.706a2cf2.gif",
+  "static/media/goodquotes_02.gif": "static/media/goodquotes_02.3206b291.gif"
 }
