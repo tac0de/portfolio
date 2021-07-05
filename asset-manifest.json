@@ -1,8 +1,12 @@
 {
-  "main.css": "static/css/main.46ff65d5.css",
-  "main.css.map": "static/css/main.46ff65d5.css.map",
-  "main.js": "static/js/main.feb921e6.js",
-  "main.js.map": "static/js/main.feb921e6.js.map",
+  "main.css": "static/css/main.77ca2b04.css",
+  "main.css.map": "static/css/main.77ca2b04.css.map",
+  "main.js": "static/js/main.e7c48145.js",
+  "main.js.map": "static/js/main.e7c48145.js.map",
   "static/media/goodquotes_01.gif": "static/media/goodquotes_01.706a2cf2.gif",
-  "static/media/goodquotes_02.gif": "static/media/goodquotes_02.3206b291.gif"
+  "static/media/goodquotes_02.gif": "static/media/goodquotes_02.3206b291.gif",
+  "static/media/sc1.png": "static/media/sc1.8e819552.png",
+  "static/media/sc2.png": "static/media/sc2.db3c7701.png",
+  "static/media/sc3.png": "static/media/sc3.ad78ebb5.png",
+  "static/media/sc4.png": "static/media/sc4.60112c99.png"
 }
